@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat Nov 29 14:04:25 2025
+# Process ID         : 104720
+# Current directory  : E:/Xilinx/project/oled/oled.runs/impl_1
+# Command line       : vivado.exe -log PmodOLEDCtrl.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source PmodOLEDCtrl.tcl -notrace
+# Log file           : E:/Xilinx/project/oled/oled.runs/impl_1/PmodOLEDCtrl.vdi
+# Journal file       : E:/Xilinx/project/oled/oled.runs/impl_1\vivado.jou
+# Running On         : LAPTOP-FSIINQTT
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i5-13500HX
+# CPU Frequency      : 2688 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 20
+# Host memory        : 16891 MB
+# Swap memory        : 10551 MB
+# Total Virtual      : 27443 MB
+# Available Virtual  : 4459 MB
+#-----------------------------------------------------------
+source PmodOLEDCtrl.tcl -notrace
